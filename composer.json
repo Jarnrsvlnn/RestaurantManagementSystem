@@ -1,0 +1,8 @@
+{
+    "name": "sevil_a7/restaurant-management-system",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
