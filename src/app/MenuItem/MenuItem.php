@@ -25,7 +25,5 @@ class MenuItem {
         $this->stock++;
     }
 
-    public function getInfo() {
-        
-    }
+    public function getInfo(): string
 }
