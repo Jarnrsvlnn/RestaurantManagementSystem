@@ -24,6 +24,4 @@ class MenuItem {
     public function restockItem() {
         $this->stock++;
     }
-
-    public function getInfo(): string
 }
